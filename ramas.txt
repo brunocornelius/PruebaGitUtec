@@ -1,0 +1,8 @@
+ Nombre:Bruno 
+ Apellido: Cornelius
+ Cédula: 3.227.622-1
+ 
+ Ramas en el proyecto:
+1) "Dev" 
+2) "QA"
+3) "Infra"
