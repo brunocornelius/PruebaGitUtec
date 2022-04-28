@@ -1,0 +1,7 @@
+ Nombre:Bruno 
+ Apellido: Cornelius
+ Cédula: 3.227.622-1
+
+PIPELINE:
+
+Crearía un Pipeline que al detectar un cambio en desarrollo, desplegaría el ambiente de pruebas y sus test, luego de pasar los test solicitaría una intervención manual en el pipeline para deslpegar en producción.
